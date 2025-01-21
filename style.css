@@ -454,8 +454,9 @@ header .actions span {
 
 .container-big>h3 {
   text-align: center;
-  font-size: 19px;
+  font-size: 50px;
   margin: 50px;
+  color: #664535;
 }
 
 .container-big span {
