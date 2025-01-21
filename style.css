@@ -447,13 +447,18 @@ header .actions span {
   left: 500px;
 }
 
-.container>h3 {
+.container-big{
+  width: 1150px;
+  margin:0 auto;
+}
+
+.container-big>h3 {
   text-align: center;
   font-size: 19px;
   margin: 50px;
 }
 
-.container span {
+.container-big span {
   color: #75B5C8;
 }
 
@@ -465,6 +470,9 @@ header .actions span {
   border: 1px solid black;
   border-radius: 12.68px;
   display: inline-block;
+}
+.list:nth-of-type(even){
+  margin: 0 20px 0 20px;
 }
 
 .top-text>h5 {
