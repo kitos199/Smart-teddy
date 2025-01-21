@@ -447,7 +447,34 @@ header .actions span {
   left: 500px;
 }
 
+.container>h3 {
+  text-align: center;
+  font-size: 19px;
+  margin: 50px;
+}
 
+.container span {
+  color: #75B5C8;
+}
+
+.list {
+  width: 365px;
+  height: 534px;
+  background-color: #fff;
+  color: #664535;
+  border: 1px solid black;
+  border-radius: 12.68px;
+  display: inline-block;
+}
+
+.top-text>h5 {
+  font-size: 34px;
+}
+
+.top-text>p {
+  font-size: 18px;
+  margin-bottom: 81px;
+}
 
 footer {
   background-color: rgba(156, 126, 110, 1);
