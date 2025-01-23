@@ -449,7 +449,7 @@ header .actions span {
 
 .container-big{
   width: 1150px;
-  margin:0 auto;
+  margin:0 auto 30px;
 }
 
 .container-big>h3 {
@@ -472,6 +472,11 @@ header .actions span {
   border-radius: 12.68px;
   display: inline-block;
 }
+
+.img-graphics{
+  width: 359px;
+}
+
 .list:nth-of-type(even){
   margin: 0 20px 0 20px;
 }
